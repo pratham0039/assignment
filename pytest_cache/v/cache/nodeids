@@ -1,0 +1,20 @@
+[
+  "tests/SQL/sql_test.py::test_get_assignments_in_graded_state_for_each_student",
+  "tests/SQL/sql_test.py::test_get_grade_A_assignments_for_teacher_with_max_grading",
+  "tests/principals_test.py::test_get_assignments",
+  "tests/principals_test.py::test_grade_assignment",
+  "tests/principals_test.py::test_grade_assignment_draft_assignment",
+  "tests/principals_test.py::test_regrade_assignment",
+  "tests/students_test.py::test_assignment_resubmit_error",
+  "tests/students_test.py::test_get_assignments_student_1",
+  "tests/students_test.py::test_get_assignments_student_2",
+  "tests/students_test.py::test_post_assignment_null_content",
+  "tests/students_test.py::test_post_assignment_student_1",
+  "tests/students_test.py::test_submit_assignment_student_1",
+  "tests/teachers_test.py::test_get_assignments_teacher_1",
+  "tests/teachers_test.py::test_get_assignments_teacher_2",
+  "tests/teachers_test.py::test_grade_assignment_bad_assignment",
+  "tests/teachers_test.py::test_grade_assignment_bad_grade",
+  "tests/teachers_test.py::test_grade_assignment_cross",
+  "tests/teachers_test.py::test_grade_assignment_draft_assignment"
+]
